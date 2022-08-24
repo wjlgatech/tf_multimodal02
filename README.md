@@ -6,7 +6,7 @@ To build a automated Tensorflow based multimodal classifier that consumes tabula
 
 ## Notes
 - this package is developed using [fastai nbdev](https://nbdev.fast.ai/) + [google colab](https://colab.research.google.com/). Checkout this step-by-step [tutorial](https://colab.research.google.com/drive/1CWEJ1e79ChjLlWQznmBnlvtvL8bRgNPA?usp=sharing)
-- tf-multimodal is a synergetic project [auto-tfrs](https://github.com/wjlgatech/auto_tfrs), an easy-to-use, easy-to-make recommendation engineer based on [tfrs](https://www.tensorflow.org/recommenders)
+- tf-multimodal is a synergetic project [fast_tfrs](https://github.com/wjlgatech/fast_tfrs), an easy-to-use, easy-to-make recommendation engineer based on [tfrs](https://www.tensorflow.org/recommenders)
 
 ## Milestones
 - [5/5] build a working [notebook](https://github.com/wjlgatech/tf-multimodal/blob/main/tf_multimodal.ipynb) with 1 sample dataset
